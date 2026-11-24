@@ -1,0 +1,11 @@
+{
+  "items": [
+    {"kind":"decision","text":"11 月 26 日向 10 家白名单客户开放新门户。","paragraph":1,"quote":"定在 11 月 26 日向 10 家白名单客户开放新门户。","owner":null,"due":null,"status":null},
+    {"kind":"decision","text":"11 月 27 日查看告警数据，再决定是否扩大开放范围。","paragraph":1,"quote":"27 日看告警数据，再决定是否扩大开放范围。","owner":null,"due":null,"status":null},
+    {"kind":"action","text":"核对客户白名单","paragraph":2,"quote":"李宁：我负责核对白名单，原定 11 月 24 日完成，10 家客户的名单今天已核完。","owner":"李宁","due":"2026-11-24","status":"done"},
+    {"kind":"action","text":"配置错误率告警并验证通知","paragraph":3,"quote":"陈遥：我正在配置错误率告警，11 月 25 日下班前完成配置并验证通知。","owner":"陈遥","due":"2026-11-25","status":"doing"},
+    {"kind":"action","text":"确认客服值守名单","paragraph":4,"quote":"周禾：我正在确认客服值守名单，11 月 25 日下班前确认完毕。","owner":"周禾","due":"2026-11-25","status":"doing"},
+    {"kind":"action","text":"确定扩大开放范围的告警阈值","paragraph":5,"quote":"扩大开放范围用的告警阈值还没定，这项还没开始，负责人和截止时间也待定。","owner":null,"due":null,"status":"todo"},
+    {"kind":"question","text":"扩大开放范围需要达到什么告警阈值？","paragraph":5,"quote":"扩大开放范围用的告警阈值还没定","owner":null,"due":null,"status":null}
+  ]
+}

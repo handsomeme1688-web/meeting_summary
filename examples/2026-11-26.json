@@ -1,0 +1,8 @@
+{
+  "items": [
+    {"kind":"decision","text":"首批 10 家客户已开通，告警阈值确定前维持当前开放范围。","paragraph":1,"quote":"今天首批 10 家白名单客户已开通。团队确认在告警阈值确定前维持首批开放范围。","owner":null,"due":null,"status":null},
+    {"kind":"action","text":"验证告警通知","paragraph":2,"quote":"A0002 的错误率告警配置已完成，通知也验证通过。","owner":null,"due":null,"status":"done"},
+    {"kind":"action","text":"确认客服值守名单","paragraph":3,"quote":"客服值守名单已确认。","owner":null,"due":null,"status":"done"},
+    {"kind":"action","text":"确定扩大开放范围的告警阈值","paragraph":4,"quote":"林悦：A0004 由我负责，11 月 27 日下班前确认。阈值还在等监控小组提供基线，当前受阻。","owner":"林悦","due":"2026-11-27","status":"blocked"}
+  ]
+}
